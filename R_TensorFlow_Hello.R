@@ -7,4 +7,4 @@ hello <- tf$constant("Hello, TensorFlow!")
 
 #manually run the following code
 
-# sess$run(hello)
+sess$run(hello)
